@@ -1,0 +1,9 @@
+C:\Users\ece.sural\source\repos\RelatedDigital.Product.API\RelatedDigital.Product.Common\obj\Debug\netcoreapp3.1\RelatedDigital.Product.Common.AssemblyInfoInputs.cache
+C:\Users\ece.sural\source\repos\RelatedDigital.Product.API\RelatedDigital.Product.Common\obj\Debug\netcoreapp3.1\RelatedDigital.Product.Common.AssemblyInfo.cs
+C:\Users\ece.sural\source\repos\RelatedDigital.Product.API\RelatedDigital.Product.Common\bin\Debug\netcoreapp3.1\RelatedDigital.Product.Common.deps.json
+C:\Users\ece.sural\source\repos\RelatedDigital.Product.API\RelatedDigital.Product.Common\bin\Debug\netcoreapp3.1\RelatedDigital.Product.Common.runtimeconfig.json
+C:\Users\ece.sural\source\repos\RelatedDigital.Product.API\RelatedDigital.Product.Common\bin\Debug\netcoreapp3.1\RelatedDigital.Product.Common.runtimeconfig.dev.json
+C:\Users\ece.sural\source\repos\RelatedDigital.Product.API\RelatedDigital.Product.Common\bin\Debug\netcoreapp3.1\RelatedDigital.Product.Common.dll
+C:\Users\ece.sural\source\repos\RelatedDigital.Product.API\RelatedDigital.Product.Common\bin\Debug\netcoreapp3.1\RelatedDigital.Product.Common.pdb
+C:\Users\ece.sural\source\repos\RelatedDigital.Product.API\RelatedDigital.Product.Common\obj\Debug\netcoreapp3.1\RelatedDigital.Product.Common.dll
+C:\Users\ece.sural\source\repos\RelatedDigital.Product.API\RelatedDigital.Product.Common\obj\Debug\netcoreapp3.1\RelatedDigital.Product.Common.pdb
